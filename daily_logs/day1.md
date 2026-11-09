@@ -7,8 +7,8 @@
 - [ ] Review tomorrow's plan
 
 ## What I Learned
-- Concept:
-- Key takeaway:
+- Concept: java one shot n dsa arrays concept
+- Key takeaway:full revision
 
 ## DSA Practice
 | Problem | Topic | Result |
