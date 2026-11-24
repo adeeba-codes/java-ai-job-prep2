@@ -1,5 +1,5 @@
 
-# Daily Log — 18-21 November 2026
+# Daily Log — 23 November 2026
 
 ## Today's Goals
 - [ ] Study concurrency n garbage collection
